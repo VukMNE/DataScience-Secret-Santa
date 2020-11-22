@@ -3,7 +3,7 @@
 # DataScience Secret Santa 2020
 According to the newly established tradition at DataScience masters programme of University of Ljubljana, this year's Secret Santa will be organized in slightly different fashion.
 
-We have been told by our pre-decessors, now second year students of DataScience, that they have thrown a party and created an amazing experience for both students and professors. However, with respect to the situation with Sars-CoV-2 epidemic, we will not be able to gather in-person. Since, we didn't want to be the ones that break the chain, this years Secret Santa, will be special, because everyone of us will send Christmas cards through post.
+We have been told by our pre-decessors, now second year students of DataScience, that they have thrown a party and created an amazing experience for both students and professors, last year. However, with respect to the situation with Sars-CoV-2 epidemic, we will not be able to gather in-person. Since, we didn't want to be the ones that break the chain, this years Secret Santa, will be special, because everyone of us will send Christmas cards through post.
 
 # Concept
 If you are not familiar with the concept of Secret Santa, here is how it works:
