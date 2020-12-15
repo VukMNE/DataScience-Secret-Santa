@@ -20,4 +20,8 @@ Then, on December 2nd, each participant will be assigned a person that they need
 
 Cards should be sent before 15th of December. If a person's address that you are required to send is not in Slovenia, we recommand sending it a few dazs before, so that the package arrives in time.
 
-After all this is done, you can sit back, relax and wait for a greeting card to arrive at your door 🥳. If you are willing to share, you can take the picture of the greeting card that you received, and publish it here, under the /gallery folder. Here are the instruction on how to do it via GitHub: [link](https://github.com/VukMNE/DataScience-Secret-Santa/blob/master/upload_your_photos.md)
+After all this is done, you can sit back, relax and wait for a greeting card to arrive at your door 🥳. 
+
+If you are willing to share, you can take the picture of the greeting card that you received, and you can upload it to Google Drive [here](https://drive.google.com/drive/folders/1im8frKGNGXJ_ngh-kfc6Lw01XRxRe6wV?usp=sharing).
+
+If you prefer to do it via GitHub. here are the instruction on how to do it: [link](https://github.com/VukMNE/DataScience-Secret-Santa/blob/master/upload_your_photos.md)
