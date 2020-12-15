@@ -2,9 +2,9 @@
 
 You have two options for uploading photos:
 
-First option is that you can upload it to the folder shared on Google Drive [here](https://drive.google.com/drive/folders/1im8frKGNGXJ_ngh-kfc6Lw01XRxRe6wV?usp=sharing).
+## First option is that you can upload it to the folder shared on Google Drive [here](https://drive.google.com/drive/folders/1im8frKGNGXJ_ngh-kfc6Lw01XRxRe6wV?usp=sharing).
 
-Howver, if you prefer to do it via GitHub, here are the instructions:
+However, if you prefer to do it via GitHub, here are the instructions:
 
 Click the “Fork” button at the top right.
 
