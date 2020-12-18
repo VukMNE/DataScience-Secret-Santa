@@ -13,6 +13,10 @@ Cheers!🥳
 
 # YOUR REPORTS
 
+## Slavko Zitnik
+![Slavko Zitnik - front](./SlavkoZitnik/front.png)
+![Slavko Zitnik - back](./SlavkoZitnik/back.png)
+
 ## YOUR NAME HERE
 oops, nobody here yet. Feel free to add your own photo and write a comment! Apply some markdown magic to have your photos show here!
 
