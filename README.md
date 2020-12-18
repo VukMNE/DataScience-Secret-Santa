@@ -1,27 +1,21 @@
 ![alt text](https://cdn.discordapp.com/attachments/776118402094858311/779774099705561098/ds3.png)
 
-# DataScience Secret Santa 2020
-According to the newly established tradition at DataScience masters programme of University of Ljubljana, this year's Secret Santa will be organized in slightly different fashion.
+# DataScience Secret Santa 2020 - FINAL REPORTS
+Hello everybody! 🙃
+If you have noticed increased activity of postmen in your neighborhood, with 99% certainty we can say that's because you're just recieving your greeting cards/gifts for the 2020 Data Science Secret Santa  is almost due.🥳🎆🎇
+However, if you have received your gifts early this year, and if you are willing to share with the rest of DataScience group, check out `upload_your_photos.md` to learn how to do it.
+https://github.com/.../blob/master/upload_your_photos.md
 
-We have been told by our pre-decessors, now second year students of DataScience, that they have thrown a party and created an amazing experience for both students and professors, last year. However, with respect to the situation with Sars-CoV-2 epidemic, we will not be able to gather in-person. Since, we didn't want to be the ones that break the chain, this years Secret Santa, will be special, because everyone of us will send Christmas cards through post.
+Feel free to also edit this markdown file and add your photos below so we can aggregate them here!
+Cheers!🥳
 
-# Concept
-If you are not familiar with the concept of Secret Santa, here is how it works:
+# YOUR REPORTS
 
-Each person is assigned to an anonymous secret santa that prepares a gift for them. Well in our case, gifts are going to be data science-related Christmas cards with very nice data science Christmas wishes.✨
+## YOUR NAME HERE
+oops, nobody here yet. Feel free to add your own photo and write a comment! Apply some markdown magic to have your photos show here!
 
-![alt text](https://cdn.discordapp.com/attachments/766625021858676747/779982605403684864/rsz_1ds3-ribbon.png)
+## YOUR NAME HERE
+oops, nobody here yet. Feel free to add your own photo and write a comment! Apply some markdown magic to have your photos show here!
 
-# How to participate
-
-First, fill out a Google Form (**link here**) by **December 1st**, where you will leave your address, so that the anonymous Santa can send you the greeting card.
-
-Then, on December 2nd, each participant will be assigned a person that they need to send their gifts(greeting card) to. Since we would like to have no negative experience for all of our participants, we would like to point out that the gifts/greeting cards should **NOT** exceed 10€ in value.
-
-Cards should be sent before 15th of December. If a person's address that you are required to send is not in Slovenia, we recommand sending it a few dazs before, so that the package arrives in time.
-
-After all this is done, you can sit back, relax and wait for a greeting card to arrive at your door 🥳. 
-
-If you are willing to share, you can take the picture of the greeting card that you received, and you can upload it to Google Drive [here](https://drive.google.com/drive/folders/1im8frKGNGXJ_ngh-kfc6Lw01XRxRe6wV?usp=sharing).
-
-If you prefer to do it via GitHub. here are the instruction on how to do it: [link](https://github.com/VukMNE/DataScience-Secret-Santa/blob/master/upload_your_photos.md)
+## YOUR NAME HERE
+oops, nobody here yet. Feel free to add your own photo and write a comment! Apply some markdown magic to have your photos show here!
