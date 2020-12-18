@@ -14,6 +14,8 @@ Cheers!🥳
 # YOUR REPORTS
 
 ## Slavko Zitnik
+Thanks for organizing this and especially to the one who created and sent this card ;) 
+
 ![Slavko Zitnik - front](./SlavkoZitnik/front.png)
 ![Slavko Zitnik - back](./SlavkoZitnik/back.png)
 
