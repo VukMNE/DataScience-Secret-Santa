@@ -19,8 +19,17 @@ Thanks for organizing this and especially to the one who created and sent this c
 ![Slavko Zitnik - front](./SlavkoZitnik/front.png)
 ![Slavko Zitnik - back](./SlavkoZitnik/back.png)
 
-## YOUR NAME HERE
-oops, nobody here yet. Feel free to add your own photo and write a comment! Apply some markdown magic to have your photos show here!
+## Erik Štrumbelj
+Thanks to my Secret Santa for a wonderful gift! And to the organizers for their work!
+
+Feedback:
+
+* Rafaello: Great! (You know your audience!)
+* Sure, they are only pie charts, but even they deserve better color choice!
+* Packaging: Perfectly sized and robust!
+* Text: Don't use "at least" with an interval (*at least 6-8* makes no sense; use *at least 6* instead).
+
+![](./ErikStrumbelj/image.jpg)
 
 ## YOUR NAME HERE
 oops, nobody here yet. Feel free to add your own photo and write a comment! Apply some markdown magic to have your photos show here!
