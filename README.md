@@ -55,6 +55,16 @@ Dear (secret) Santa! Thank you for the best wishes and for the lamp :P May the p
 =======
 ![alt text](https://cdn.discordapp.com/attachments/776118402094858311/779774099705561098/ds3.png)
 
+## Dimitar
+![](./DimitarStefanov/Christmas%20card%20wishes.jpg)
+![](./DimitarStefanov/Christmas%20card.jpg)
+![](./DimitarStefanov/Christmas%20gift.jpg)
+![](./DimitarStefanov/Gift%20(warm%20gloves).jpg)
+Thank you so much, Secret Santa! Very grateful for the wonderful wishes! And about the present, what
+can I say! I've been persuading myself for quite some time now to go get some gloves, so 
+you definitely made the right choice with this present! Can't wait to go back to Slovenia and try 
+them on! 😃
+
 # DataScience Secret Santa 2020 - FINAL REPORTS
 Hello everybody! 🙃
 If you have noticed increased activity of postmen in your neighborhood, with 99% certainty we can say that's because you're just recieving your greeting cards/gifts for the 2020 Data Science Secret Santa.🥳🎆🎇
